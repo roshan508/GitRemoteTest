@@ -1,0 +1,6 @@
+<html>
+  <head> 
+    <title> Welcome </title>
+  </head>
+  <p> Welcome to my website </p>
+</html>
